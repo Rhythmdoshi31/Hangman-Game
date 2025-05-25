@@ -1,5 +1,7 @@
 # React Hangman
 
+<img width="1042" alt="Screenshot 2025-05-25 at 4 55 00 PM" src="https://github.com/user-attachments/assets/2372b171-ed67-4f8b-95df-ff847b68ef8e" />
+
 ## Description
 
 A simple and interactive Hangman game built using React.
